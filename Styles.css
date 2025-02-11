@@ -1,0 +1,220 @@
+body {
+   margin: 20px;
+   padding: 20px;
+   border: 5px solid rgb(244,220,160);
+   box-sizing: border-box;
+   background-color: rgb(255, 255, 255);
+   font-family: Arial, Calibri, Verdana;
+}
+
+
+nav { 
+   background-color: rgba(244, 220, 160, 1);
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   clear: both;
+
+   div {
+      display: block;
+      color: rgb(158, 88, 68);
+      text-decoration: none;
+      font-size: 18px;
+   }
+}
+
+li {
+   float: right;
+   display: block;
+   padding: 14px 16px; 
+   font-size: 18px;
+   color: rgb(158, 88, 68);
+}
+
+li a {
+   display: block;
+   color: rgb(158, 88, 68);
+   text-align: right;
+   font-family: "Arial", Calibri, Verdana;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 18px;
+}  
+
+.TITLELD {
+   display: block;
+   text-align: center;
+}
+
+.TITLELD {
+   display: inline-block;
+}
+
+.Title {
+  border: 2px solid rgb(255, 255, 255);
+  padding: 40px;
+  margin: 30px;
+  box-sizing: border-box;
+
+
+  h1 {
+     color: rgb(59, 59, 59);
+     font-size: 3em;
+     text-align: left;
+     padding: 10px;
+     margin: 20px;
+   }
+
+h2 { 
+    color: rgb(158, 88, 68);
+    font-size: 2em;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+ }
+
+ p { 
+    color: rgb(59, 59, 59);
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 10px;
+    margin: 20px;
+ }
+}
+
+
+.England {     
+  border: 2px solid rgb(0, 0, 0);
+  padding: 40px;
+  margin: 150px;
+  box-sizing: border-box;
+
+
+  h1 {
+     color: rgb(59, 59, 59);
+     font-size: 3em;
+     padding: 10px;
+     margin: 20px;
+   }
+
+h2 { 
+    color: rgb(158, 88, 68);
+    font-size: 2em;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+ }
+
+ p { 
+    color: rgb(59, 59, 59);
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 10px;
+    margin: 20px;
+ }
+}
+
+
+.Colombia {   
+
+   border: 2px solid rgb(0, 0, 0);
+   padding: 40px;
+   margin: 150px;
+   box-sizing: border-box;
+ 
+ 
+   h1 {
+      color: rgb(59, 59, 59);
+      font-size: 3em;
+      text-align: left;
+      padding: 10px;
+      margin: 20px;
+    }
+ 
+ h2 { 
+     color: rgb(158, 88, 68);
+     font-size: 2em;
+     text-align: left;
+     padding: 10px;
+     margin: 20px;
+  }
+ 
+  p { 
+     color: rgb(59, 59, 59);
+     font-size: 1.5em;
+     text-align: justify;
+     padding: 10px;
+     margin: 20px;
+  }
+}
+
+
+.Japan {   
+
+  border: 2px solid rgb(0, 0, 0);
+  padding: 40px;
+  margin: 150px;
+  box-sizing: border-box;
+
+
+  h1 {
+     color: rgb(59, 59, 59);
+     font-size: 3em;
+     text-align: left;
+     padding: 10px;
+     margin: 20px;
+   }
+
+h2 { 
+    color: rgb(158, 88, 68);
+    font-size: 2em;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+ }
+
+ p { 
+    color: rgb(59, 59, 59);
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 10px;
+    margin: 20px;
+ }
+}
+
+
+.Russia {   
+
+  border: 2px solid rgb(0, 0, 0);
+  padding: 40px;
+  margin: 150px;
+  box-sizing: border-box;
+
+
+  h1 {
+     color: rgb(59, 59, 59);
+     font-size: 3em;
+     text-align: left;
+     padding: 10px;
+     margin: 20px;
+   }
+
+h2 { 
+    color: rgb(158, 88, 68);
+    font-size: 2em;
+    text-align: left;
+    padding: 10px;
+    margin: 20px;
+ }
+
+ p { 
+    color: rgb(59, 59, 59);
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 10px;
+    margin: 20px;
+ }
+}
+
+
+  
